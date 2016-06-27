@@ -8,7 +8,7 @@ Tor Node on RaspberryPi Dockerfile
 1. Use Docker for RaspberryPi from hypriot.com
 2. Download and build image
 ```sh
-git clone https://github.com/MatthiasGa/Tor-Node-on-RPi-Dockerfile
+git clone https://github.com/panickervinod/Tor-Node-on-RPi-Dockerfile
 cd Tor-Node-on-RPi-Dockerfile
 docker build -t matthiasga/tor .
 ```
